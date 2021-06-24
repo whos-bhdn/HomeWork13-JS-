@@ -1,0 +1,61 @@
+.box{
+   font-size: 30px;
+   margin-bottom: 15px;
+   margin-left: 15px;
+}
+
+li{
+   cursor: pointer;
+   list-style: none;
+}
+
+.container{
+   display: flex;
+   justify-content: space-around;
+}
+
+.colorBox{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   width: 480px;
+   height: 480px;
+   border: 1px solid black;
+}
+
+.box{
+   width: 140px;
+   height: 130px;
+}
+
+.red{
+   background-color: red;
+}
+
+.blue{
+   background-color: blue;
+}
+
+.yellow{
+   background-color: yellow;
+}
+
+.green{
+   background-color: green;
+}
+
+.white{
+   background-color: white;
+}
+
+.violet{
+   background-color: violet;
+}
+
+.black{
+   background-color: black;
+}
+
+.purple{
+   background-color: purple;
+}
